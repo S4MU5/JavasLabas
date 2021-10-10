@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="save_data">Save Data</string>
+    <string name="get_data">Get Data</string>
+    <string name="type_here">Type here</string>
+    <string name="next_activity">Change Activity</string>
+    <string name="activityText">Get Back</string>
+</resources>

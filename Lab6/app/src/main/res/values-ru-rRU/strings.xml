@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="save_data">Сохранить</string>
+    <string name="get_data">Получить данные</string>
+    <string name="type_here">Введите данные</string>
+    <string name="next_activity">Сменить Activity</string>
+    <string name="activityText">Вернись назад</string>
+</resources>
