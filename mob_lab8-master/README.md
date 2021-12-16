@@ -1,8 +1,5 @@
-**Макаров Максим 803в2.**  
 Создадим проект без activity, добавим в него layout, 
-на который поместим кнопки и поля ввода текста, и новый java-класс DBHelper:  
-![image info](/imgs/mob_lab8_1.jpg)  
-![image info](/imgs/mob_lab8_2.jpg)  
+на который поместим кнопки и поля ввода текста, и новый java-класс DBHelper
 В класс напишем следующий код:  
 ```Java
 public class DBHelper extends SQLiteOpenHelper
