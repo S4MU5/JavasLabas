@@ -1,4 +1,3 @@
-**Макаров Максим 803в2.**
 в MainActivity:  
 ```Java
 @Override
